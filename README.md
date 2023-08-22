@@ -9,7 +9,7 @@ Follow these steps to utilize the CSV Column Rearranger for reordering columns i
   - Install the Pandas library using pip:
 	    pip install pandas
 02) Clone the Repository:
-  - Clone this repository to your local machine using your preferred method (HTTPS, SSH, GitHub CLI, etc.)..
+  - Clone this repository to your local machine using your preferred method (HTTPS, SSH, GitHub CLI, etc.)...
 03) Running the Script:
   - Replace 'Merged_Logs.csv' with the actual filename of the CSV file you want to rearrange.
   - Define the desired column order in the desired_columns list.
